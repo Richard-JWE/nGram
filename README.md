@@ -11,3 +11,4 @@ This application focuses on probabilities of a sequence of letters or words. The
 The program is a menu driven application which runs in the CLI. The program was built using uses Eclipse and Java SE 17 compiler. The program is able to take text input and output a file. The file will include the n-gram size the user has chosen. The file will have two columns N-Gram and Frequency and can output the results. The program is expected to store the results in an object 2D array and output the file to CSV. The program can be run from a jar file to access the program alternatively. 
 
 Please see PDF for some diagrams
+ The prgram was built with Java17 and eclipse using org.eclipse.jdt.core.compiler.source=17
